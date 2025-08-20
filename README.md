@@ -52,5 +52,5 @@ Here are a few projects I'm proud of. You can find more on my [repositories page
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/rohit-dadlani23/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/> Linkedin
 </a>
