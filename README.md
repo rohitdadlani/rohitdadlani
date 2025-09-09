@@ -31,14 +31,14 @@ I'm a passionate developer with a focus on building innovative solutions and exp
 
 Here are a few projects I'm proud of. You can find more on my [repositories page](https://github.com/rohitdadlani?tab=repositories)!
 
-| Project                    | Description                                                                                      | Link         |
-|---------------------------|--------------------------------------------------------------------------------------------------|--------------|
-| **Sales-Command-Center**  | An innovative CRM application built with the MERN stack to streamline sales operations.          | 🔗 [Repository](#) |
-| **SmartRec**              | A recommendation engine using machine learning to provide personalized suggestions.              | 🔗 [Repository](#) |
-| **LAHacksEdTech**         | A collaborative platform from LAHacks to enhance the educational experience with interactive modules. | 🔗 [Repository](#) |
-| **Online-Food-Ordering-System** | A web application for ordering food from various restaurants. Built with Java, Servlets, and JSP. | 🔗 [Repository](#) |
-| **Simple-Banking-Application** | A console-based banking application to manage accounts, deposits, and withdrawals using Java. | 🔗 [Repository](#) |
-| **Email-Application**     | A simple Java application to generate and manage email accounts for new hires in a company.       | 🔗 [Repository](#) |
+| Project                    | Description                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+| **Sales-Command-Center**  | An innovative CRM application built with the MERN stack to streamline sales operations.          | 
+| **SmartRec**              | A recommendation engine using machine learning to provide personalized suggestions.              |
+| **LAHacksEdTech**         | A collaborative platform from LAHacks to enhance the educational experience with interactive modules. |
+| **Online-Food-Ordering-System** | A web application for ordering food from various restaurants. Built with Java, Servlets, and JSP. | 
+| **Simple-Banking-Application** | A console-based banking application to manage accounts, deposits, and withdrawals using Java. | 
+| **Email-Application**     | A simple Java application to generate and manage email accounts for new hires in a company.       |
 
 ---
 
