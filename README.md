@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on building innovative solutions and exp
 - 🔭 I’m currently working on enhancing my skills in full-stack development.  
 - 🌱 I’m currently learning more about cloud technologies and machine learning.  
 - 💬 Ask me about Java, Python, Spring Boot, and Web Development.  
-- 📫 How to reach me: rohitdadlani205@gmail.com  
+- 📫 How to reach me: rohitdadlani85@gmail.com  
 - ⚡ Fun fact: I enjoy solving complex problems and turning ideas into reality.  
 
 ---
